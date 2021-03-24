@@ -1,0 +1,8 @@
+{
+  "name": "Redis Server",
+  "description": "Public redis server",
+  "stack": "container",
+  "repository": "https://github.com/xlab13/redis",
+  "logo": "https://redis.io/images/redis-white.png",
+  "keywords": ["redis"]
+}
